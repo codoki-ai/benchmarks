@@ -27,7 +27,7 @@ Mentions only in summaries did not count.
 | Repository  | Language   | Dataset / Recreated PRs |
 |-------------|-----------|------------------------|
 | **Sentry**    | Python     | [sentry-codoki](https://github.com/codoki-ai/sentry-codoki) |
-| **Cal.com**   | TypeScript | [calcom-codoki](https://github.com/codoki-ai/calcom-codoki) |
+| **Cal.com**   | TypeScript | [calcom-codoki](https://github.com/codoki-ai/cal.com-codoki) |
 | **Grafana**   | Go         | [grafana-codoki](https://github.com/codoki-ai/grafana-codoki) |
 | **Keycloak**  | Java       | [keycloak-codoki](https://github.com/codoki-ai/keycloak-codoki) |
 | **Discourse** | Ruby       | [discourse-codoki](https://github.com/codoki-ai/discourse-codoki) |
